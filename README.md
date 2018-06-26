@@ -1,0 +1,2 @@
+# Delphi
+An app that anticipates and rates the performance of stocks using technical as well as fundamental analysis by taking advantage of Python's data science and machine learning capabilities. Delphi helps traders and investors find stocks for their portfolio and recommends positions and strategies for each one using algorithms based on technical indicators, sentiment analysis, and the aforementioned machine learning to predict future trends.
